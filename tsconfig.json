@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "lib": ["dom", "DOM.Iterable", "ESNext"],
+      "jsx": "react-jsx",
+      "module": "ESNext",
+      "allowJs": true,
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["./HW36/src"],
+    "exclude": []
+  }
+  
